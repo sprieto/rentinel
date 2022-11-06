@@ -15,10 +15,12 @@ Our value proposition is to provide an escrow payment alternative by leveraging 
 
 
 Monetization
-	This project will be designed as a “Contract as a Service.” The use of the service will incur a percentage fee taking from the staking of the rental deposits, calculated at the 20% rate of the total yield. 
+
+This project will be designed as a “Contract as a Service.” The use of the service will incur a percentage fee taking from the staking of the rental deposits, calculated at the 20% rate of the total yield. 
 If an external arbitration is to be required for a dispute, the validator actor (aka public adjuster) will receive the remaining total yield of 80% of the staking as a compensation. 
 Additional services may be implemented, such as various cryptocurrencies for an additional fee.
 
 SDLC Model
-	Our software development life cycle is based on a collaboration model among the students, developers and potential users and investors. We rely on agile methodologies and open-source technologies to iterate over the project deliverables. Since it is a new endeavor we encourage continuous iterations to cope with the rapid evolving of blockchain and distributed networks technology in order to provide the most cost effective solution for the property rental management systems.  
+
+Our software development life cycle is based on a collaboration model among the students, developers and potential users and investors. We rely on agile methodologies and open-source technologies to iterate over the project deliverables. Since it is a new endeavor we encourage continuous iterations to cope with the rapid evolving of blockchain and distributed networks technology in order to provide the most cost effective solution for the property rental management systems.  
 
