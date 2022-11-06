@@ -3,11 +3,13 @@ RENTINEL.IO
 A SMART CONTRACT FOR RENTALS
 
 Problem definition
-	High inflation, pricing volatility, lack of transparency, and many other issues tenants and landlords face provide an opportunity for smart contracts to help regulate an outdated business. Our smart contract facilitates the automation of the ongoing transaction between the involved parties, as well as providing a secure deposit held by a wallet assigned to the contract, which could be placed into staking to generate additional yields. Our solution facilities the dispute process in case a breach of agreement occurs.
+
+High inflation, pricing volatility, lack of transparency, and many other issues tenants and landlords face provide an opportunity for smart contracts to help regulate an outdated business. Our smart contract facilitates the automation of the ongoing transaction between the involved parties, as well as providing a secure deposit held by a wallet assigned to the contract, which could be placed into staking to generate additional yields. Our solution facilities the dispute process in case a breach of agreement occurs.
 The deposit, in most cases, cannot be monitored by the tenant after it is given to the landlord. In addition, the Deposit deductions are usually done arbitrarily by one of the parties, without an efficient or cost-effective means to dispute. By using an escrow smart contract, the risk of fraud can be reduced by ensuring proper escrow logic execution, along with the transparency of having the transaction accessible to all participants through an open distributed ledger or blockchain.
 
 Overview
-	The goal of the smart contract is to update and simplify both business and trade between the parties, using web3. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility. 
+
+The goal of the smart contract is to update and simplify both business and trade between the parties, using web3. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility. 
 The smart contract solution will seek to reduce the need of trusted intermediators, arbitrations and enforcement costs when transacting rental property deposits, resulting in a decrease of fraud losses, as well as the reduction of malicious and accidental exceptions. The security of escrow functionality implemented by the smart contract can be ensured as the smart contract code is immutable once deployed on the blockchain.
 Our value proposition is to provide an escrow payment alternative by leveraging the power of blockchain technology and its native smart contract capabilities. Our solution will allow the parties to define the contract conditions and rely on a neutral escrow logic execution that facilitates payments related to rental properties.  
 
