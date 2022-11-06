@@ -1,7 +1,10 @@
 # rentinel
+RENTINEL.IO
+A SMART CONTRACT FOR RENTALS
+
+Problem definition
 High inflation, pricing volatility, lack of transparency, and many other issues tenants and landlords face provide an opportunity for smart contracts to help regulate an outdated business. Our smart contract facilitates the automation of the ongoing transaction between the involved parties, as well as providing a secure deposit held by a wallet assigned to the contract, which could be placed into staking to generate additional yields. Our solution facilities the dispute process in case a breach of agreement occurs.
 The deposit, in most cases, cannot be monitored by the tenant after it is given to the landlord. In addition, the Deposit deductions are usually done arbitrarily by one of the parties, without an efficient or cost-effective means to dispute. By using an escrow smart contract, the risk of fraud can be reduced by ensuring proper escrow logic execution, along with the transparency of having the transaction accessible to all participants through an open distributed ledger or blockchain.
-
 Overview
 The goal of the smart contract is to update and simplify both business and trade between the parties, using web3. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility. 
 The smart contract solution will seek to reduce the need of trusted intermediators, arbitrations and enforcement costs when transacting rental property deposits, resulting in a decrease of fraud losses, as well as the reduction of malicious and accidental exceptions. The security of escrow functionality implemented by the smart contract can be ensured as the smart contract code is immutable once deployed on the blockchain.
@@ -19,4 +22,5 @@ If an external arbitration is to be required for a dispute, the validator actor 
 Additional services may be implemented, such as various cryptocurrencies for an additional fee.
 SDLC Model
 Our software development life cycle is based on a collaboration model among the students, developers and potential users and investors. We rely on agile methodologies and open-source technologies to iterate over the project deliverables. Since it is a new endeavor we encourage continuous iterations to cope with the rapid evolving of blockchain and distributed networks technology in order to provide the most cost effective solution for the property rental management systems.  
-![image](https://user-images.githubusercontent.com/13037369/200162153-e99c0842-c667-4e28-aa77-b8d0d1ceb31d.png)
+
+![image](https://user-images.githubusercontent.com/13037369/200162186-a1f90ead-87bc-4cd8-99b2-88dcfce09f68.png)
