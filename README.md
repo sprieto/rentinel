@@ -1,5 +1,5 @@
 # rentinel
-RENTINEL.IO
+
 A SMART CONTRACT FOR RENTALS
 
 Problem definition
