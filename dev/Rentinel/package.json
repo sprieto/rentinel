@@ -1,0 +1,22 @@
+{
+  "name": "Rentinel",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sergio Prieto",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "ganache": "^7.5.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.2",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "solc": "^0.4.25",
+    "web3": "^1.7.3"
+  }
+}
