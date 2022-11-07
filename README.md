@@ -1,4 +1,4 @@
-# rentinel
+# www.rentinel.io
 
 A SMART CONTRACT FOR RENTALS
 
